@@ -1,6 +1,19 @@
 # PPSC_task_1: Lunch Punishment
 Oh no! You've been caught sleeping in science class and your teacher
 decides to assign you a punishment to receive during lunch. He makes 
-you write "I, [your name], am sorry for sleeping in class." a number 
-of times. But, you're a programmer, so using your skills, you cheat 
-the system. 
+you write "I, [name], am sorry for sleeping in class." a number 
+of [times] (on seperate lines, of course). But, you're a programmer, 
+so using your skills, you cheat the system. 
+
+** Make sure to put a newline at the end of your returned result, 
+otherwise it will not pass the testcase.
+
+____________________________________________________________________
+This problem explores the topic of string multiplication, string 
+concatentation, and newlines. 
+____________________________________________________________________
+For additional help, either ask Paul, Joshua, Mr. Blatner, or any 
+other staff member for assistance.
+
+Otherwise, you can search up "python string concatenation", "python
+string multiplication", and "python string newlines".
