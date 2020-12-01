@@ -1,2 +1,0 @@
-Paul Shim
-5
