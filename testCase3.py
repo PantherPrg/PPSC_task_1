@@ -1,2 +1,0 @@
-John Adams
-25
