@@ -1,2 +1,0 @@
-Joshua Almario
-20
