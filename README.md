@@ -8,6 +8,8 @@ Oh no! You've been caught sleeping in science class and your teacher decides to 
 _________________________________________________________________________________
 This problem explores the topic of string multiplication, string concatentation, and newlines. 
 _________________________________________________________________________________
+**optional challenge: complete in under 3 lines**
+
 For additional help, either ask Paul, Joshua, Mr. Blattner, or any other staff member for assistance.
 
 Otherwise, you can search up "python string concatenation", "python string multiplication", and "python string newlines".
